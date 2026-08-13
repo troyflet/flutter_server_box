@@ -1,4 +1,4 @@
-English | [简体中文](README_zh.md)
+github: @troyflet README.MD
 
 <h2 align="center">Flutter Server Box</h2>
 
@@ -32,8 +32,8 @@ Especially thanks to <a href="https://github.com/TerminalStudio/dartssh2">dartss
 |--|--|
 | iOS | [AppStore](https://apps.apple.com/app/id1586449703) |
 | macOS | [AppStore](https://apps.apple.com/app/id1586449703) / brew install --cask server-box |
-| Android | [GitHub](https://github.com/lollipopkit/flutter_server_box/releases) / [CDN](https://cdn.lpkt.cn/serverbox/pkg/?sort=time&order=desc&layout=grid) / [F-Droid](https://f-droid.org/packages/tech.lolli.toolbox) / [OpenAPK](https://www.openapk.net/serverbox/tech.lolli.toolbox/) |
-| Linux / Windows | [GitHub](https://github.com/lollipopkit/flutter_server_box/releases) / [CDN](https://cdn.lpkt.cn/serverbox/pkg/?sort=time&order=desc&layout=grid) |
+| Android | [GitHub](https://github.com/troyflet/flutter_server_box/releases) / [CDN](https://cdn.lpkt.cn/serverbox/pkg/?sort=time&order=desc&layout=grid) / [F-Droid](https://f-droid.org/packages/tech.troyflet.toolbox) / [OpenAPK](https://www.openapk.net/serverbox/tech.troyflet.toolbox/) |
+| Linux / Windows | [GitHub](https://github.com/troyflet/flutter_server_box/releases) / [CDN](https://cdn.lpkt.cn/serverbox/pkg/?sort=time&order=desc&layout=grid) |
 
 Please only download pkgs from the source that **you trust**!  
 
@@ -51,16 +51,14 @@ Please only download pkgs from the source that **you trust**!
   <a href="https://discord.gg/SsVNbRhK7w"><img alt="discord" src="https://img.shields.io/badge/Discord-lpkt-purple"></a>
 </div>
 
-- In order to push  server status to your portable device without opening ServerBox app (Such as **message push** and **home widget**), you need to install [ServerBoxMonitor](https://github.com/lollipopkit/server_box_monitor) on your servers, and config it correctly. See [wiki](https://github.com/lollipopkit/server_box_monitor/wiki) for more details.
-- **Common issues** can be found in [app wiki](https://github.com/lollipopkit/flutter_server_box/wiki).
+- In order to push  server status to your portable device without opening ServerBox app (Such as **message push** and **home widget**), you need to install [ServerBoxMonitor](https://github.com/troyflet/server_box_monitor) on your servers, and config it correctly. See [wiki](https://github.com/troyflet/server_box_monitor/wiki) for more details.
+- **Common issues** can be found in [app wiki](https://github.com/troyflet/flutter_server_box/wiki).
 
 Before you open an issue, please read the following:
 
 1. Paste the **entire log** (click the top right of the home page) in the issue template.
 2. Make sure whether the issue is caused by ServerBox app.
-3. Welcome all valid and positive feedback, subjective feedback (such as you think other UI is better) may not be accepted.
-
-After you read the above, you can open an [issue](https://github.com/lollipopkit/flutter_server_box/issues/new).
+3. Welcome all valid and positive feedback, subjective feedback (such as you think other UI is better) may not be accepted
 
 ## 🧱 Contributions
 
@@ -76,14 +74,12 @@ If I forgot to add your name to the contributors list, please add a comment in t
 
 ### Translation
 
-- [Guide](https://blog.lpkt.cn/posts/faq/) can be found in my blog.
-- We need your help! Just feel free to open a PR.
+.
 
 ## 💡 My other apps
 
-- [GPT Box](https://github.com/lollipopkit/flutter_gpt_box) - A third-party GPT Client for OpenAI API on all platforms.
-- [More](https://github.com/lollipopkit) - Tools & etc.
+- [More](https://github.com/troyflet) - Tools & etc.
 
 ## 📝 License
-
+troyflet & contributors
 `AGPL v3 lollipopkit & all contributors`
